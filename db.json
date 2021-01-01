@@ -1,0 +1,126 @@
+{
+  "data": [
+    {
+      "id": 5,
+      "productName": "murphy.com",
+      "productPrice": 563,
+      "createdAt": "Tue, Dec 15, 2020 12:14 PM",
+      "updatedAt": "Tue, Dec 15, 2020 12:14 PM"
+    },
+    {
+      "id": 6,
+      "productName": "kris.com",
+      "productPrice": 153,
+      "createdAt": "Tue, Dec 15, 2020 12:14 PM",
+      "updatedAt": "Tue, Dec 15, 2020 12:14 PM"
+    },
+    {
+      "id": 7,
+      "productName": "stokes.com",
+      "productPrice": 643,
+      "createdAt": "Tue, Dec 15, 2020 12:14 PM",
+      "updatedAt": "Tue, Dec 15, 2020 12:14 PM"
+    },
+    {
+      "id": 8,
+      "productName": "brekke.net",
+      "productPrice": 840,
+      "createdAt": "Tue, Dec 15, 2020 12:14 PM",
+      "updatedAt": "Tue, Dec 15, 2020 12:14 PM"
+    },
+    {
+      "id": 9,
+      "productName": "jaskolski.com",
+      "productPrice": 823,
+      "createdAt": "Tue, Dec 15, 2020 12:14 PM",
+      "updatedAt": "Tue, Dec 15, 2020 12:14 PM"
+    },
+    {
+      "id": 10,
+      "productName": "bruen.biz",
+      "productPrice": 106,
+      "createdAt": "Tue, Dec 15, 2020 12:14 PM",
+      "updatedAt": "Tue, Dec 15, 2020 12:14 PM"
+    },
+    {
+      "id": 11,
+      "productName": "jacobi.biz",
+      "productPrice": 715,
+      "createdAt": "Tue, Dec 15, 2020 12:14 PM",
+      "updatedAt": "Tue, Dec 15, 2020 12:14 PM"
+    },
+    {
+      "id": 12,
+      "productName": "trantow.org",
+      "productPrice": 784,
+      "createdAt": "Tue, Dec 15, 2020 12:14 PM",
+      "updatedAt": "Tue, Dec 15, 2020 12:14 PM"
+    },
+    {
+      "id": 13,
+      "productName": "schroeder.info",
+      "productPrice": 537,
+      "createdAt": "Tue, Dec 15, 2020 12:14 PM",
+      "updatedAt": "Tue, Dec 15, 2020 12:14 PM"
+    },
+    {
+      "id": 14,
+      "productName": "dietrich.com",
+      "productPrice": 411,
+      "createdAt": "Tue, Dec 15, 2020 12:14 PM",
+      "updatedAt": "Tue, Dec 15, 2020 12:14 PM"
+    },
+    {
+      "id": 15,
+      "productName": "heathcote.com",
+      "productPrice": 257,
+      "createdAt": "Tue, Dec 15, 2020 12:14 PM",
+      "updatedAt": "Tue, Dec 15, 2020 12:14 PM"
+    },
+    {
+      "id": 16,
+      "productName": "morissette.biz",
+      "productPrice": 406,
+      "createdAt": "Tue, Dec 15, 2020 12:14 PM",
+      "updatedAt": "Tue, Dec 15, 2020 12:14 PM"
+    },
+    {
+      "id": 17,
+      "productName": "schoen.com",
+      "productPrice": 326,
+      "createdAt": "Tue, Dec 15, 2020 12:14 PM",
+      "updatedAt": "Tue, Dec 15, 2020 12:14 PM"
+    },
+    {
+      "id": 18,
+      "productName": "glover.info",
+      "productPrice": 491,
+      "createdAt": "Tue, Dec 15, 2020 12:14 PM",
+      "updatedAt": "Tue, Dec 15, 2020 12:14 PM"
+    },
+    {
+      "id": 19,
+      "productName": "swaniawski.info",
+      "productPrice": 422,
+      "createdAt": "Tue, Dec 15, 2020 12:14 PM",
+      "updatedAt": "Tue, Dec 15, 2020 12:14 PM"
+    }
+  ],
+  "statusCode": 200,
+  "statusMessage": "OK",
+  "links": {
+    "first": "http://todo-api.test/api/product?page=1",
+    "last": "http://todo-api.test/api/product?page=7",
+    "prev": null,
+    "next": "http://todo-api.test/api/product?page=2"
+  },
+  "meta": {
+    "current_page": 1,
+    "from": 1,
+    "last_page": 7,
+    "path": "http://todo-api.test/api/product",
+    "per_page": 15,
+    "to": 15,
+    "total": 96
+  }
+}
