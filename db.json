@@ -25,7 +25,8 @@
                 "postId": 1
             }
         ],
-        "profile": {
+        "user": {
+            "id":1,   
             "name": "chornthorn"
         }
     }
